@@ -1,0 +1,28 @@
+{
+    "person": [
+        {
+            "id": 12345678,
+            "name": "Jose",
+            "rq": false
+        },
+        {
+            "id": 123456782,
+            "name": "Lucas",
+            "rq": true
+        }
+    ],
+    "placas": [
+        {
+            "id": "ASD123",
+            "modelo": "Carrito",
+            "dueno": "Juan Perez",
+            "robado": false
+        },
+        {
+            "id": "ASB123",
+            "modelo": "Carrito",
+            "dueno": "Lucas Perez",
+            "robado": true
+        }
+    ]
+}
